@@ -19,7 +19,7 @@ namespace Personal_Website.Controllers
             
             return View();
         }
-
+        
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
